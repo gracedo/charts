@@ -9,4 +9,3 @@ metadata:
 provisioner: kubernetes.io/no-provisioner
 volumeBindingMode: {{ .Values.storageclass.volumeBindingMode | default delete | quote }}
 reclaimPolicy: {{ .Values.storageclass.reclaimPolicy | default WaitForFirstConsumer | quote }}
-{{- end }}

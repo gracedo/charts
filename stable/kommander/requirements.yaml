@@ -7,3 +7,15 @@ dependencies:
   version: "0.1.5"
   repository: "https://mesosphere.github.io/kommander-cluster-lifecycle/charts"
   condition: kommander-cluster-lifecycle.enabled, global.kommander-cluster-lifecycle.enabled
+- name: thanos
+  version: 0.3.5
+  repository: https://kubernetes-charts.banzaicloud.com
+  condition: thanos.enabled
+- name: grafana
+  version: 3.8.*
+  repository: https://kubernetes-charts.storage.googleapis.com
+  condition: grafana.enabled
+- name: karma
+  version: 1.1.*
+  repository: https://kubernetes-charts.storage.googleapis.com
+  condition: karma.enabled

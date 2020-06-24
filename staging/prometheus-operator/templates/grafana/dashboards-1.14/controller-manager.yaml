@@ -149,6 +149,7 @@ data:
                             "min": false,
                             "rightSide": true,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": true
                         },
@@ -253,6 +254,7 @@ data:
                             "min": false,
                             "rightSide": true,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": true
                         },
@@ -357,6 +359,7 @@ data:
                             "min": false,
                             "rightSide": true,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": true
                         },
@@ -461,6 +464,7 @@ data:
                             "min": false,
                             "rightSide": false,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": false
                         },
@@ -573,6 +577,7 @@ data:
                             "min": false,
                             "rightSide": false,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": false
                         },
@@ -677,6 +682,7 @@ data:
                             "min": false,
                             "rightSide": true,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": true
                         },
@@ -781,6 +787,7 @@ data:
                             "min": false,
                             "rightSide": false,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": false
                         },
@@ -872,6 +879,7 @@ data:
                             "min": false,
                             "rightSide": false,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": false
                         },
@@ -963,6 +971,7 @@ data:
                             "min": false,
                             "rightSide": false,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": false
                         },
@@ -1123,7 +1132,7 @@ data:
                 "30d"
             ]
         },
-        "timezone": "",
+        "timezone": "UTC",
         "title": "Kubernetes / Controller Manager",
         "uid": "72e0e05bef5099e5f049b05fdc429ed4",
         "version": 0

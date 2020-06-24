@@ -369,6 +369,7 @@ data:
                     "min": false,
                     "rightSide": false,
                     "show": true,
+                    "sideWidth": null,
                     "total": false,
                     "values": false
                 },
@@ -468,6 +469,7 @@ data:
                     "min": false,
                     "rightSide": false,
                     "show": true,
+                    "sideWidth": null,
                     "total": false,
                     "values": false
                 },
@@ -578,6 +580,7 @@ data:
                             "min": false,
                             "rightSide": false,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": false
                         },
@@ -677,6 +680,7 @@ data:
                             "min": false,
                             "rightSide": false,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": false
                         },
@@ -796,6 +800,7 @@ data:
                             "min": false,
                             "rightSide": false,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": false
                         },
@@ -895,6 +900,7 @@ data:
                             "min": false,
                             "rightSide": false,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": false
                         },
@@ -1180,7 +1186,7 @@ data:
                 "30d"
             ]
         },
-        "timezone": "",
+        "timezone": "UTC",
         "title": "Kubernetes / Networking / Pod",
         "uid": "7a18067ce943a40ae25454675c19ff5c",
         "version": 0

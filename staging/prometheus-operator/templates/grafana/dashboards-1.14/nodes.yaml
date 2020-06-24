@@ -65,6 +65,7 @@ data:
                             "min": false,
                             "rightSide": false,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": false
                         },
@@ -157,6 +158,7 @@ data:
                             "min": false,
                             "rightSide": false,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": false
                         },
@@ -282,6 +284,7 @@ data:
                             "min": false,
                             "rightSide": false,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": false
                         },
@@ -491,6 +494,7 @@ data:
                             "min": false,
                             "rightSide": false,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": false
                         },
@@ -606,6 +610,7 @@ data:
                             "min": false,
                             "rightSide": false,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": false
                         },
@@ -724,6 +729,7 @@ data:
                             "min": false,
                             "rightSide": false,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": false
                         },
@@ -816,6 +822,7 @@ data:
                             "min": false,
                             "rightSide": false,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": false
                         },
@@ -977,7 +984,7 @@ data:
                 "30d"
             ]
         },
-        "timezone": "",
+        "timezone": "UTC",
         "title": "Nodes",
         "uid": "fa49a4706d07a042595b664c87fb33ea",
         "version": 0

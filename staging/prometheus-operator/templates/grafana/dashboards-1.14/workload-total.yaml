@@ -94,6 +94,7 @@ data:
                     "min": false,
                     "rightSide": true,
                     "show": true,
+                    "sideWidth": null,
                     "sort": "current",
                     "sortDesc": true,
                     "total": false,
@@ -195,6 +196,7 @@ data:
                     "min": false,
                     "rightSide": true,
                     "show": true,
+                    "sideWidth": null,
                     "sort": "current",
                     "sortDesc": true,
                     "total": false,
@@ -307,6 +309,7 @@ data:
                             "min": false,
                             "rightSide": true,
                             "show": true,
+                            "sideWidth": null,
                             "sort": "current",
                             "sortDesc": true,
                             "total": false,
@@ -408,6 +411,7 @@ data:
                             "min": false,
                             "rightSide": true,
                             "show": true,
+                            "sideWidth": null,
                             "sort": "current",
                             "sortDesc": true,
                             "total": false,
@@ -539,6 +543,7 @@ data:
                     "min": false,
                     "rightSide": false,
                     "show": true,
+                    "sideWidth": null,
                     "total": false,
                     "values": false
                 },
@@ -638,6 +643,7 @@ data:
                     "min": false,
                     "rightSide": false,
                     "show": true,
+                    "sideWidth": null,
                     "total": false,
                     "values": false
                 },
@@ -748,6 +754,7 @@ data:
                             "min": false,
                             "rightSide": false,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": false
                         },
@@ -847,6 +854,7 @@ data:
                             "min": false,
                             "rightSide": false,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": false
                         },
@@ -966,6 +974,7 @@ data:
                             "min": false,
                             "rightSide": false,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": false
                         },
@@ -1065,6 +1074,7 @@ data:
                             "min": false,
                             "rightSide": false,
                             "show": true,
+                            "sideWidth": null,
                             "total": false,
                             "values": false
                         },
@@ -1382,7 +1392,7 @@ data:
                 "30d"
             ]
         },
-        "timezone": "",
+        "timezone": "UTC",
         "title": "Kubernetes / Networking / Workload",
         "uid": "728bf77cc1166d2f3133bf25846876cc",
         "version": 0

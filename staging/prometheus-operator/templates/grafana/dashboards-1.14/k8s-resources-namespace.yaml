@@ -1276,6 +1276,7 @@ data:
                         "datasource": "$datasource",
                         "fill": 1,
                         "id": 9,
+                        "interval": "1m",
                         "legend": {
                             "avg": false,
                             "current": false,
@@ -2253,7 +2254,7 @@ data:
                 "30d"
             ]
         },
-        "timezone": "",
+        "timezone": "UTC",
         "title": "Kubernetes / Compute Resources / Namespace (Pods)",
         "uid": "85a562078cdf77779eaa1add43ccec1e",
         "version": 0

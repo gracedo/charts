@@ -14,6 +14,9 @@ federate:
     name: kommander-system
 
 thanos:
+  image:
+    tag: v0.15.0
+
   store:
     enabled: false
   compact:
